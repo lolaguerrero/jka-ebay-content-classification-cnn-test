@@ -18,7 +18,7 @@ REQUIRED = [
         "scipy==1.3.2",
         "sklearn==0.0",
         "tensorboard==1.12.2",
-        "tensorflow==1.12.0",
+        "tensorflow==2.6.4",
         "termcolor==1.1.0"
         ]
 
