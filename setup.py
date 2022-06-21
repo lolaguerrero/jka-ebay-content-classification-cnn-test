@@ -12,7 +12,7 @@ version = about["__version__"]
 REQUIRED = [
         "gensim==3.8.1",
         "nltk==3.4.5",
-        "numpy==1.17.4",
+        "numpy==1.22.0",
         "pandas==0.24.2",
         "scikit-learn==0.21.3",
         "scipy==1.3.2",
